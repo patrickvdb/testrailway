@@ -1,4 +1,4 @@
-FROM registry.gitlab.com/analythium/shinyproxy-hello/hello
+FROM rocker/shiny-verse:latest
 
 ENV PORT=3838
 
